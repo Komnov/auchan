@@ -81,7 +81,7 @@
 .to_pdf {
     width: 65px;
     height: 70px;
-    background-image: url(/pdf.jpg);
+    background-image: url(pdf.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     margin: 0 30px 0 0;
@@ -99,7 +99,7 @@
 .to_exc {
     width: 65px;
     height: 70px;
-    background-image: url(/exc.png);
+    background-image: url(exc.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
